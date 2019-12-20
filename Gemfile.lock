@@ -50,9 +50,6 @@ GEM
     bindex (0.8.1)
     bootsnap (1.4.4)
       msgpack (~> 1.0)
-    bootstrap_form (4.2.0)
-      actionpack (>= 5.0)
-      activemodel (>= 5.0)
     builder (3.2.3)
     byebug (11.0.1)
     capybara (3.28.0)
@@ -109,7 +106,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     public_suffix (3.1.1)
     puma (3.12.1)
-    rack (2.0.7)
+    rack (2.0.8)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (5.2.3)
@@ -195,7 +192,6 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
-  bootstrap_form
   byebug
   capybara (>= 2.15)
   chromedriver-helper

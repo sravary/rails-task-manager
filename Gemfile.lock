@@ -50,9 +50,6 @@ GEM
     bindex (0.8.1)
     bootsnap (1.4.4)
       msgpack (~> 1.0)
-    bootstrap_form (4.2.0)
-      actionpack (>= 5.0)
-      activemodel (>= 5.0)
     builder (3.2.3)
     byebug (11.0.1)
     capybara (3.28.0)
@@ -175,7 +172,7 @@ GEM
     turbolinks (5.2.0)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
@@ -195,7 +192,6 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
-  bootstrap_form
   byebug
   capybara (>= 2.15)
   chromedriver-helper
